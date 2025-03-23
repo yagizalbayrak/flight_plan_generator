@@ -33,6 +33,8 @@ This Jupyter Notebook provides a tool for generating photogrammetric flight plan
   - A semi-transparent polygon representing the study area.
 
   These visual tools offer both quick overviews and in-depth exploration of the flight plan.
+  ![Flight Path Example](folium.png)
+  
 
 ## Requirements
 
