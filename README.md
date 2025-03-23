@@ -22,9 +22,11 @@ This Jupyter Notebook provides a tool for generating photogrammetric flight plan
 - Python 3.x
 - [NumPy](https://numpy.org/)
 - [SimpleKML](https://simplekml.readthedocs.io/en/latest/)
-- Jupyter Notebook (or JupyterLab)
+- [JSON](https://www.json.org/json-en.html)
+- [Matplotlib](https://matplotlib.org/)
+- [Jupyter Notebook (or JupyterLab)](https://jupyter.org/)
 
 Make sure you have the required libraries installed. You can install them via pip:
 
 ```bash
-pip install numpy simplekml
+pip install numpy simplekml matplotlib
