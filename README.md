@@ -19,7 +19,7 @@ This Jupyter Notebook provides a tool for generating photogrammetric flight plan
 
 ## Requirements
 
-- Python 3.x
+- Python 3.12
 - [NumPy](https://numpy.org/)
 - [SimpleKML](https://simplekml.readthedocs.io/en/latest/)
 - [JSON](https://www.json.org/json-en.html)
